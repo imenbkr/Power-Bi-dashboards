@@ -22,12 +22,3 @@ This repository contains the following dashboard project:
 - [Project 2 - Financial Report](https://github.com/imenbkr/Power-Bi-dashboards/tree/main/Project%202%20-%20Financial%20Report): A dashboard that displays a summary on profits of a company. [Link to the dashboard on novypro](https://www.novypro.com/project/financial-report-7)
 
 Each project folder contains a README.md file that describes the purpose of the dashboard, the data sources used, and any other relevant information. You can also find screenshots of the dashboard.
-
-## Contributing
-
-If you'd like to contribute a dashboard project to this repository, we'd love to see it! Here are the steps to contribute:
-
-1. Fork this repository to your own GitHub account.
-2. Create a new folder for your dashboard project.
-3. Add the .pbix file, any supporting data files, and a README.md file that describes the purpose of the dashboard and any relevant information.
-4. Create a pull request to merge your changes back into the main repository.
